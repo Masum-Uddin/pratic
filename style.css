@@ -1,0 +1,27 @@
+body{font-family: 'Bungee Shade', cursive;
+    font-family: 'Poppins', sans-serif;}
+    .jack-smith{color: rgb(151, 72, 140);
+    font-size: 50px;}
+    .hello{font-size: 40px;}
+    .top-banner{display: flex;
+    width: 100%;
+background-image: url(header-bg.png);
+margin-bottom: 5%;}
+    .half-with{width: 50%;
+    margin-top: 5%;
+    margin-left: 10%;
+margin-bottom: 50px;}
+    .half-with img{width: 80%;}
+    .fb{text-decoration: none;
+        text-shadow: 10px ;
+        background-image: linear-gradient(rgb(161, 80, 137),rgb(223, 149, 161));
+        color: white;
+        padding: 7px 15px;
+        border-radius: 10px;
+        margin-top: 20%;}
+        .top-banner2{
+            display: flex;
+            width: 100%;
+            background-image: url(biography-bg.png);
+        }
+
